@@ -1,4 +1,4 @@
-# SightGuard: Real-Time Object Detection and Localization for Enhanced Navigation
+# Vision Guard: Real-Time Object Detection and Localization for Enhanced Navigation
 
 ## Project Overview
 
